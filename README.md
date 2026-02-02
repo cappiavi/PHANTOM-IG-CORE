@@ -1,3 +1,5 @@
+![Alt](https://repobeats.axiom.co/api/embed/54ea88a0a52b0359b8a511e98560fff099f266bd.svg "Repobeats analytics image")
+
 # PHANTOM-IG CORE v18.6: THE SENTINEL
 
 ### Autonomous Media Extraction and Neural Activity Monitoring System
